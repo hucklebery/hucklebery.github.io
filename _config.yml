@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://hucklebery.github.io/
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: Xiaolin
+subtitle: "We must know, we will know"
+description: "Xiaolin's personal blog"
+keywords: Xiaolin, Xiaolin Hu, hucklebery, huxiaolin
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,24 +15,24 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Xiaolin Hu
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: hucklebery
+location: Shanghai, China
+email: xiaolinhu@shu.edu.cn
 
 # ---------------- #
 #    Navigation    #
 # ---------------- #
 navs:
   -
-    href: /
-    label: 首页
+    href: /Home/
+    label: Home
 
   -
     href: /categories/
-    label: 分类
+    label: Categories
 
 #   -
 #     href: /archives/
@@ -40,15 +40,15 @@ navs:
 
   -
     href: /wiki/
-    label: 维基
+    label: Wiki
 
   -
     href: /links/
-    label: 链接
+    label: Links
 
   -
     href: /about/
-    label: 关于
+    label: About
 
 # ---------------- #
 #       RSS        #
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: hucklebery/hucklebery.github.io
 
 # ---------------- #
 #      Comments    #
