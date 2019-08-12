@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://hucklebery.github.io/
+url: https://hucklebery.github.io
 date_format: "ordinal"
 title: Xiaolin
 subtitle: "We must know, we will know"
