@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: https://hucklebery.github.io
+baseurl: 
 url: https://hucklebery.github.io
 date_format: "ordinal"
 title: Xiaolin
@@ -27,7 +27,7 @@ email: xiaolinhu@shu.edu.cn
 # ---------------- #
 navs:
   -
-    href: /Home/
+    href: /
     label: Home
 
   -
