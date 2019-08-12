@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: 
+baseurl: https://hucklebery.github.io
 url: https://hucklebery.github.io
 date_format: "ordinal"
 title: Xiaolin
