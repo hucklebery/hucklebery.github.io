@@ -1,4 +1,12 @@
-# 研究生数学建模竞赛2018年“恐怖主义量化分析”
+---
+layout: post
+title: 2018 CPGMCM “Quantitative analysis of terrorist attacks”
+categories: Basis
+description: 本来要看数模论文的，结果做了一晚上的网页
+keywords: Basis, Math
+---
+
+In the 15th chian post-graduate mathematical contest in modeling, Problem C is "Quantitative analysis of terrorist attacks". 
 
 | 编号 | 语言 | 软件 | 关键词 | 关键词 | 关键词 | 关键词| 关键词 |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
