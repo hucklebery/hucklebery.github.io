@@ -17,7 +17,7 @@
 
 **[在线预览 &rarr;](https://hucklebery.github.io)**
 
-![screenshot home](https://hucklebery.github.io/assets/images/screenshots/home.jpg)
+![screenshot home](/assets/images/screenshots/home.jpg)
 ## 贴心提示
 
 1. 排版建议遵照一定的规范，推荐 [中文文案排版指北（简体中文版）][1]。
