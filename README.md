@@ -18,7 +18,7 @@
 
 **[在线预览 &rarr;](https://hucklebery.github.io)**
 
-![screenshot home](https://hucklebery.github.io/assets/images/screenshots/home.png)
+![screenshot home](https://hucklebery.github.io/assets/images/screenshots/home.jpg)
 
 ## Fork 指南
 
