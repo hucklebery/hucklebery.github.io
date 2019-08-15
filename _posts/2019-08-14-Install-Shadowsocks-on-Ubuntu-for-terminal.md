@@ -6,9 +6,9 @@ description: 本来为了给孙小宝下载数据集，结果发现用浏览器�
 keywords: Tools, Shadowsocks, Ubuntu
 ---
 
-## 命令行客户端
+This tutorial is going to show you how to set up Shadowsocks on Ubuntu 18.04. Shadowsocks is a lightweight, fast and secure Socks5 proxy to bypass Internet censorship. We will learn how to set up the local side and how to configure the terminal client on Ubuntu.
 
-新买的服务器一直没有进行Shadowsocks相关设置，而学校的核心网更新过后实验室服务器连接有线下载速度贼快，于是倒腾了半天在Ubuntu安装了Shadowsocks的命令行客户端，并熟悉了相关操作，记录如下
+## 命令行客户端
 
 ### 1.安装
 以Python版本的Shadowsocks为例
