@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Matrix Completion with Variational Graph Autoencoders: Application in Hyperlocal Air Quality Inference 
+title: Matrix Completion with Variational Graph Autoencoders for Air Quality Inference 
 categories: Graph
 description: Graph-based matrix completion in Air Quality Inference.
 keywords: Variational graph autoencoder, graph-based matrix completion, deep learning.
