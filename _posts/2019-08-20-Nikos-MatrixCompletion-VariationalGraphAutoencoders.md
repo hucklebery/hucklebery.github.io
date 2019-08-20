@@ -9,6 +9,9 @@ keywords: Variational graph autoencoder, graph-based matrix completion, deep lea
 # Matrix Completion with Variational Graph Autoencoders: Application in Hyperlocal Air Quality Inference
 
 Inferring air quality from a limited number of observations is an essential task for monitoring and controlling air pollution.
+
+
+
 |                            Title                             |                            Author                            |             Institution             |   Journal   |      Date      |                         Index Terms                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------: | :---------: | :------------: | :----------------------------------------------------------: |
 | [Matrix Completion with Variational Graph Autoencoders: Application in Hyperlocal Air Quality Inference](https://ieeexplore.ieee.org/abstract/document/8683787) | Tien Huu Do, Duc Minh Nguyen, Evaggelia Tsiligianni, Nikos Deligiannis | Vrije Universiteit Brussel, Belgium | ICASSP 2019 | 12-17 May 2019 | Variational graph autoencoder, graph-based matrix completion, deep learning. |
@@ -30,7 +33,7 @@ Inferring air quality from a limited number of observations is an essential task
 The main contributions in this paper are:
 
 1. They formulate air quality inference as a **<u>graph-based matrix completion</u>** problem and propose a **<u>variational graph autoencoder</u>** for accurate inference.
-2. The proposed model effectively incorporates the **<u>temporal and spatial correlations</u>** via a **<u>temporal smoothness constraint</u>** and **<u>graph convolutional operations**.
+2. The proposed model effectively incorporates the **<u>temporal and spatial correlations</u>** via a **<u>temporal smoothness constraint</u>** and **<u>graph convolutional operations</u>**.
 3. **<u>Real-world datasets</u>**.
 
 ## Method 
